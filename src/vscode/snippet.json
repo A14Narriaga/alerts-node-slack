@@ -1,0 +1,7 @@
+{
+	"alertSnippet": {
+		"prefix": "alertSnippet",
+		"body": ["alert.error(`${1:msg}`, ${2:error}, ${3:true})"],
+		"description": "Alert Snippet"
+	}
+}
